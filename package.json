@@ -1,0 +1,13 @@
+{
+  "name": "sadsadasd",
+  "version": "1.0.0",
+  "main": "game.js",
+  "description": "package description",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thufo/sadsadasd.git"
+  },
+  "keywords": ["tag1", "tag2"],
+  "author": "Thufo",
+  "license": "MIT"
+}
